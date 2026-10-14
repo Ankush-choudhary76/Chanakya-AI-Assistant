@@ -1,0 +1,14 @@
+# Sonny Personal Assistant - Python Dependencies
+# (Core features work out-of-the-box with standard Python 3.9+)
+
+# Optional: Voice Microphone input from Terminal
+SpeechRecognition>=3.10.0
+
+# Optional: Windows / Linux Offline TTS
+pyttsx3>=2.90
+
+# Optional: Local LLM integration (if using Ollama Python client)
+ollama>=0.3.0
+
+# Optional: Web automation via Playwright
+playwright>=1.40.0
